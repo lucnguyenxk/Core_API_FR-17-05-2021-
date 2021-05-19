@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MISA.NDL.CukCuk.Core/1.0.0": {
+        "runtime": {
+          "MISA.NDL.CukCuk.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MISA.NDL.CukCuk.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

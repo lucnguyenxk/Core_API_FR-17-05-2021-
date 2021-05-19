@@ -1,0 +1,15 @@
+C:\Users\ndluc\source\repos\MISA.NDL.CukCuk\MISA.NDL.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.NDL.CukCuk.Infrastructure.deps.json
+C:\Users\ndluc\source\repos\MISA.NDL.CukCuk\MISA.NDL.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.NDL.CukCuk.Infrastructure.dll
+C:\Users\ndluc\source\repos\MISA.NDL.CukCuk\MISA.NDL.CukCuk.Infrastructure\bin\Debug\net5.0\ref\MISA.NDL.CukCuk.Infrastructure.dll
+C:\Users\ndluc\source\repos\MISA.NDL.CukCuk\MISA.NDL.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.NDL.CukCuk.Infrastructure.pdb
+C:\Users\ndluc\source\repos\MISA.NDL.CukCuk\MISA.NDL.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.NDL.CukCuk.Core.dll
+C:\Users\ndluc\source\repos\MISA.NDL.CukCuk\MISA.NDL.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.NDL.CukCuk.Core.pdb
+C:\Users\ndluc\source\repos\MISA.NDL.CukCuk\MISA.NDL.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.NDL.CukCuk.Infrastructure.csprojAssemblyReference.cache
+C:\Users\ndluc\source\repos\MISA.NDL.CukCuk\MISA.NDL.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.NDL.CukCuk.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndluc\source\repos\MISA.NDL.CukCuk\MISA.NDL.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.NDL.CukCuk.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ndluc\source\repos\MISA.NDL.CukCuk\MISA.NDL.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.NDL.CukCuk.Infrastructure.AssemblyInfo.cs
+C:\Users\ndluc\source\repos\MISA.NDL.CukCuk\MISA.NDL.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.NDL.CukCuk.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ndluc\source\repos\MISA.NDL.CukCuk\MISA.NDL.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.NDL.CukCuk.Infrastructure.csproj.CopyComplete
+C:\Users\ndluc\source\repos\MISA.NDL.CukCuk\MISA.NDL.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.NDL.CukCuk.Infrastructure.dll
+C:\Users\ndluc\source\repos\MISA.NDL.CukCuk\MISA.NDL.CukCuk.Infrastructure\obj\Debug\net5.0\ref\MISA.NDL.CukCuk.Infrastructure.dll
+C:\Users\ndluc\source\repos\MISA.NDL.CukCuk\MISA.NDL.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.NDL.CukCuk.Infrastructure.pdb
