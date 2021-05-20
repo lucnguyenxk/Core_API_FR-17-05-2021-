@@ -10,6 +10,7 @@ using Microsoft.OpenApi.Models;
 using MISA.NDL.CukCuk.Core.Interfaces.IRepositories;
 using MISA.NDL.CukCuk.Core.Interfaces.IServices;
 using MISA.NDL.CukCuk.Core.Service;
+using MISA.NDL.CukCuk.Core.Services;
 using MISA.NDL.CukCuk.Infrastructure.Repositories;
 using System;
 using System.Collections.Generic;
@@ -38,6 +39,11 @@ namespace MISA.NDL.CukCuk.Web
             });
             services.AddScoped<ICustomerService, CustomerService>();
             services.AddScoped<ICustomerRepository, CustomerRepository>();
+            services.AddScoped(typeof(IBaseRepository<>),typeof(BaseRepository<>));
+            services.AddScoped(typeof(IBaseService<>), typeof(BaseService<>));
+            services.AddScoped<ICustomerGroupService, CustomerGroupService>();
+            services.AddScoped<ICustomerGroupRepository, CustomerGroupRepository>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

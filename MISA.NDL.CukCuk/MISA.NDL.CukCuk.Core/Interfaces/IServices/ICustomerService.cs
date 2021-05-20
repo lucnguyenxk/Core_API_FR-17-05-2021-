@@ -1,4 +1,5 @@
 ﻿using MISA.NDL.CukCuk.Core.Entities;
+using MISA.NDL.CukCuk.Core.Interfaces.IRepositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,10 +8,8 @@ using System.Threading.Tasks;
 
 namespace MISA.NDL.CukCuk.Core.Interfaces.IServices
 {
-    public interface ICustomerService
+    public interface ICustomerService : IBaseService<Customer>
     {
-        
-        public int Insert(Customer customer);
-        public int Uppdate(Customer customer);
+     
     }
 }

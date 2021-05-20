@@ -10,29 +10,12 @@ using System.Threading.Tasks;
 
 namespace MISA.NDL.CukCuk.Web.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class CustomerController : ControllerBase
+   
+    public class CustomerController : BaseController<Customer>
     {
-        ICustomerService _iCustomerService;
-        ICustomerRepository _iCustomerRepository;
-        public CustomerController(ICustomerService iCustomerService, ICustomerRepository iCustomerRepository)
+        public CustomerController( ICustomerService iCustomerService, ICustomerRepository iCustomerRepository) : base(iCustomerService,iCustomerRepository)
         {
-            _iCustomerService = iCustomerService;
-            _iCustomerRepository = iCustomerRepository;
-        }
 
-        [HttpGet]
-        public IEnumerable<Customer> GetAll()
-        {
-           var res = _iCustomerRepository.GetAll();
-            return res;
-        }
-        [HttpPost]
-        public int Insert(Customer customer)
-        {
-            var res = _iCustomerService.Insert(customer);
-            return res;
         }
 
     }

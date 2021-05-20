@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ndluc\\source\\repos\\MISA.NDL.CukCuk\\MISA.NDL.CukCuk.Core\\MISA.NDL.CukCuk.Core.csproj": {}
+    "C:\\Users\\ndluc\\Desktop\\Core_API_FR-17-05-2021-\\MISA.NDL.CukCuk\\MISA.NDL.CukCuk.Core\\MISA.NDL.CukCuk.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ndluc\\source\\repos\\MISA.NDL.CukCuk\\MISA.NDL.CukCuk.Core\\MISA.NDL.CukCuk.Core.csproj": {
+    "C:\\Users\\ndluc\\Desktop\\Core_API_FR-17-05-2021-\\MISA.NDL.CukCuk\\MISA.NDL.CukCuk.Core\\MISA.NDL.CukCuk.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ndluc\\source\\repos\\MISA.NDL.CukCuk\\MISA.NDL.CukCuk.Core\\MISA.NDL.CukCuk.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ndluc\\Desktop\\Core_API_FR-17-05-2021-\\MISA.NDL.CukCuk\\MISA.NDL.CukCuk.Core\\MISA.NDL.CukCuk.Core.csproj",
         "projectName": "MISA.NDL.CukCuk.Core",
-        "projectPath": "C:\\Users\\ndluc\\source\\repos\\MISA.NDL.CukCuk\\MISA.NDL.CukCuk.Core\\MISA.NDL.CukCuk.Core.csproj",
+        "projectPath": "C:\\Users\\ndluc\\Desktop\\Core_API_FR-17-05-2021-\\MISA.NDL.CukCuk\\MISA.NDL.CukCuk.Core\\MISA.NDL.CukCuk.Core.csproj",
         "packagesPath": "C:\\Users\\ndluc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ndluc\\source\\repos\\MISA.NDL.CukCuk\\MISA.NDL.CukCuk.Core\\obj\\",
+        "outputPath": "C:\\Users\\ndluc\\Desktop\\Core_API_FR-17-05-2021-\\MISA.NDL.CukCuk\\MISA.NDL.CukCuk.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ndluc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
